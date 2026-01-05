@@ -1,0 +1,1 @@
+https://claude.ai/oauth/authorize?code=true&client_id=9d1c250a-e61b-44d9-88ed-5944d1962f5e&response_type=code&scope=user:profile+user:inference+user:sessions:claude_code&code_challenge=4KWl0ynJ4kmDa5-lcef-_j0gveDi1KmLKdtpY-UTaHo&code_challenge_method=S256&state=X_dznrGTISU6xDtS_cOF1fONNnv_q_5KPuwFR7gJNhE&redirect_uri=http://localhost:65060/callback
